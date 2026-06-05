@@ -1,7 +1,12 @@
 __pycache__/
 *.pyc
-input/
-output/
+
+# Ignore all contents of input/ and output/ directories but keep .gitkeep
+input/*
+!input/.gitkeep
+output/*
+!output/.gitkeep
+
 debug_pages/
 .vscode/
 .idea/
