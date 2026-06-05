@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+input/
+output/
+debug_pages/
+.vscode/
+.idea/
+.env

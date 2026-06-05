@@ -1,0 +1,7 @@
+PyMuPDF
+pandas
+openpyxl
+pytesseract
+opencv-python-headless
+Pillow
+numpy
